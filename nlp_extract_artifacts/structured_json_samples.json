@@ -1,0 +1,492 @@
+[
+  {
+    "nlp_text": "Description: \"Réf: AH079 Nabeul / Hammamet centre Appartement / à vendre il y a 3 jours 🏢#MS_IMMOBILIER🏢met en #vente🎉un #appartement richement #meublé de type🔑S+1 avec une grande #terrasse aménagée🚶🚶 ayant une #vue_sublime sur la #mer🏝🏖 mis au 2ème étage d'une petite #résidence #conviviale à #Hammamet_centre-ville ⛱️🌊 🎉Une terrasse #vue de #mer est disponible🏡 🌊🔌 Chauffage central préinstallé 📜 Documents: Titre foncier individuel encours 📐Superficie: 76 m² 💰 Prix: 320 MD 👋 Réf : AH079 👉Pour plus d'informations contactez-nous sur ☎51355351 | Transaction type: vente",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": true,
+        "parking_or_garage": true,
+        "elevator": false,
+        "balcony_or_terrace": true,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": true,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Transaction type: 2.0 | Governorate: 1.0 | Zone: \"Appartement s+1 avec vue de mer à hammamet à vendre 51355351 | Appartement | à vendre | 76.00 m | Chauffage centrale | Parabole / TV | Système Alarme | Climatisation | Terrasses | Meublé | Vue mer | Internet/Wi-fi | Hammamet",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": true,
+        "air_conditioning": true,
+        "heating": true,
+        "parking_or_garage": true,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": true,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": true,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: \"Réf: AH001 Nabeul / Hammamet centre Appartement / à vendre il y a 3 jours 📝#Direct #promoteur🗝🚪 🏢#MS_IMMOBILIER🏢vous offre pour la #vente des #appartements🏡de style S+2 de #hautstanding à #Hammamet🌊#zone_théâtre ⛱et #Polyclinique #Hammamet🏝🏖 📐Superficie: 109 m² 💰Prix: 385 MD 📐Superficie: 127 m² 💰Prix: 450 MD 🎈Réf: AH001 👉Pour plus d'informations contactez-nous sur ☎51355351 | Transaction type: vente",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": true,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": true,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: 1.0 | Governorate: 1.0 | Zone: \"Des appartements s+2 tout neuf à vendre à hammamet 51355351 | Appartement | à vendre | 109.00 m | Garage | Chauffage centrale | Parabole / TV | Système Alarme | Climatisation | Terrasses | Jardin | Ascenseur | Internet/Wi-fi | Hammamet",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": true,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": true,
+        "heating": true,
+        "parking_or_garage": true,
+        "elevator": true,
+        "balcony_or_terrace": false,
+        "garden": true,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": true,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: \"Réf: AH077 Nabeul / Hammamet Appartement / à vendre il y a 3 jours 🙋🙋#ستوديو #للبيع🍡💥في #الحمامات بـ140 مليون# 🤑🤑 ☀️حي نظيف و راقي 🏄موش بعيد عالبحر و على مسرح الحمامات🌊🏖 📐المساحة: 55 متر مربع ☎️للاستفسار و لأكثر معلومات الرجاء الإتصال برقم الهاتف ☎️51355351 🍄Réf: AH077 | Transaction type: vente",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": false,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Zone: \"Coquet studio à vendre à 140 md à hammamet 51355351 | Appartement | à vendre | 55.00 m | Hammamet",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": false,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: \"Réf: AH088 Nabeul / Hammamet centre Appartement / à vendre il y a 3 jours 🏢#MS_IMMOBILIER🏢met en #vente🔵des #appartements #neuf 👌👌 💒situés dans une petite #résidence🏘🏘 #sécurisée proche de toutes les commodités à #Hammamet⛱️🌊 💦🔌Résidence équipée de chauffage central 📜Document: Titre foncier 📐Superficie des S+1: 68 m² 💰 Prix:: 200 MD 📐Superficie:110 m² 💰 Prix: 280 MD ❣️Réf : AH088 👉Pour plus d'informations contactez-nous sur ☎51355351 | Transaction type: vente",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": true,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": true,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": true,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": true,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Governorate: 1.0 | Zone: \"Des appartements à vendre à hammamet 51355351 | Appartement | à vendre | 68.00 m | Garage | Chauffage centrale | Parabole / TV | Système Alarme | Climatisation | Terrasses | Vue mer | Internet/Wi-fi | Hammamet",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": true,
+        "heating": true,
+        "parking_or_garage": true,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": true,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": true,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: \"Réf: OF94472 Nabeul / Hammamet Appartement / à vendre il y a 12 jours Appart S2 d'une superficie de 200m² situé au 4ème étage d'une résidence à El Kharrouba Hammamet. A l'entrée on trouve un salon | Transaction type: vente | Governorate: 2 salles de bain et 2 terrasses. Contacter l'agent: 56 590 380",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": false,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  },
+  {
+    "nlp_text": "Description: \"Réf: AH085 Nabeul / Hammamet centre Appartement / à vendre il y a 17 jours 😍🙋#ستوديو #طابق أرضي-S0-#للبيع في #الحمامات وسط البلاد بـ140مليون 🤑🤑 ☀️حي نظيف و جديد 🏄موش بعيدة عالبحر و على وسط البلاد🌊🏖 📐المساحة: حوالي 40 متر مربع ☎️للاستفسار و لأكثر معلومات الرجاء الإتصال برقم الهاتف ☎️51355351 🍄Réf: AH085 | Transaction type: vente",
+    "structured_json": {
+      "property": {
+        "apartment": true,
+        "house": false,
+        "villa": false,
+        "land": false,
+        "commercial": false
+      },
+      "transaction": {
+        "sale": true,
+        "rent": false,
+        "negotiable": false,
+        "urgent": false
+      },
+      "condition": {
+        "new_or_renovated": false,
+        "needs_renovation": false
+      },
+      "comfort": {
+        "furnished": false,
+        "air_conditioning": false,
+        "heating": false,
+        "parking_or_garage": false,
+        "elevator": false,
+        "balcony_or_terrace": false,
+        "garden": false,
+        "pool": false,
+        "security": false,
+        "double_glazing": false
+      },
+      "location": {
+        "sea_view": false,
+        "near_beach": false,
+        "near_school": false,
+        "near_transport": false,
+        "city_center": false
+      },
+      "standing": {
+        "luxury": false,
+        "high_quality_finishing": false
+      },
+      "signals": {
+        "low_quality_or_vague": false,
+        "extraction_confidence": null
+      }
+    }
+  }
+]

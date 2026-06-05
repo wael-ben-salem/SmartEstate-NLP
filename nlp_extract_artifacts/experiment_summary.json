@@ -1,0 +1,13 @@
+{
+  "task": "NLP Extract Immobilier",
+  "objective": "Automatiser l’extraction des informations importantes depuis les descriptions immobilières afin de structurer les données et améliorer la recherche des biens.",
+  "dataset_rows_after_cleaning": 9928,
+  "total_labels": 29,
+  "trainable_labels": 27,
+  "label_type": "silver_labels",
+  "best_practical_model": "TF-IDF + LogisticRegression",
+  "best_deep_learning_model": "TextCNN",
+  "transformer_model_tested": "distilbert-base-multilingual-cased",
+  "recommended_future_model": "XLM-RoBERTa / Transformer multilingual avec labels humains",
+  "important_note": "Rule-based est une baseline explicable; si labels=silver_labels, il n'est pas choisi comme meilleur modèle final. Le Transformer est GPU-safe avec fallback CPU si CUDA OOM."
+}
