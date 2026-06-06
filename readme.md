@@ -729,7 +729,7 @@ The structured JSON output can significantly improve real estate search, filteri
 
 # 👨‍💻 Author
 
-Developed by **Hedi Mzoughi**.
+Developed by **Wael Ben Salem**.
 
 ---
 
